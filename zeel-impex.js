@@ -10,7 +10,7 @@ document.getElementById('contact-form').addEventListener('submit', function (e) 
   submitBtn.innerHTML = 'Sending <span class="spinner"></span>';
   submitBtn.classList.add('disabled');
 
-  fetch("https://formsubmit.co/dasharathchaudhary61399@gmail.com", {
+  fetch("https://formsubmit.co/zeelimpexnutbolt@gmail.com", {
     method: "POST",
     body: formData,
   })
